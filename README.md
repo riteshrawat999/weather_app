@@ -14,7 +14,7 @@ A professional, real-time weather tracking application built with **Flutter** an
 ## 🛠️ Tech Stack
 *   **Framework**: [Flutter](https://flutter.dev) (Dart)
 *   **State Management**: [flutter_bloc](https://pub.dev)
-*   **Networking**: [Http](https://pub.dev) / [Dio](https://pub.dev) for REST API calls
+*   **Networking**: [Http](https://pub.dev)  for REST API calls
 *   **Dependencies**: `geolocator`, `intl` (date formatting), `equatable`
 
 ## 🏗️ Architecture & Best Practices
