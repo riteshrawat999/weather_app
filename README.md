@@ -3,7 +3,11 @@
 A professional, real-time weather tracking application built with **Flutter** and the **BLoC pattern**. This project demonstrates clean architecture, reactive state management, and seamless API integration.
 
 <!-- TIP: Replace this placeholder URL with a link to your actual screenshot or GIF -->
-![App Demo](https://github.com/riteshrawat999/weather_app/blob/a4a1f54bef67ed7bb79b2fd6e4b3630ef3a1e0d5/Screenshot_2026-03-21-05-41-11-35_39e887150b9bb1d7d879b0f4ffa6d2e6%5B1%5D.png)
+<p align="center">
+  <img src="https://github.com/riteshrawat999/weather_app/blob/a4a1f54bef67ed7bb79b2fd6e4b3630ef3a1e0d5/Screenshot_2026-03-21-05-41-11-35_39e887150b9bb1d7d879b0f4ffa6d2e6%5B1%5D.png" 
+       alt="Weather App UI" 
+       width="260"
+</p>
 
 ## 🚀 Key Features
 *   **Live Weather Updates**: Fetches real-time data including temperature, humidity, and wind speed using the [OpenWeatherMap API](https://openweathermap.org).
@@ -27,4 +31,4 @@ Following **Clean Architecture** principles ensures the code is maintainable and
 
 ## 📬 Contact
 **Ritesh Kumar**  
-[LinkedIn](https://www.linkedin.com/in/ritesh-flutter/) | [Email](mailto:ritesh.flutter@gmail.com) |
+[LinkedIn](https://www.linkedin.com/in/ritesh-flutter/) | [Email](mailto:ritesh.flutter@gmail.com)
